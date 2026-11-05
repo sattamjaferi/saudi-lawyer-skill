@@ -36,13 +36,13 @@ saudi-lawyer-skill/
 ### Claude Code (على مستوى المستخدم)
 
 ```bash
-git clone https://github.com/<your-username>/saudi-lawyer-skill.git ~/.claude/skills/saudi-lawyer
+git clone https://github.com/sattamjaferi/saudi-lawyer-skill.git ~/.claude/skills/saudi-lawyer
 ```
 
 ### على مستوى مشروع محدد
 
 ```bash
-git clone https://github.com/<your-username>/saudi-lawyer-skill.git .claude/skills/saudi-lawyer
+git clone https://github.com/sattamjaferi/saudi-lawyer-skill.git .claude/skills/saudi-lawyer
 ```
 
 ### Claude.ai
